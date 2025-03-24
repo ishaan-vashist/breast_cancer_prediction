@@ -68,9 +68,4 @@ UCI Machine Learning Repository: Breast Cancer Wisconsin (Diagnostic) Data Set
 
 🧠 License
 This project is for educational and research purposes only.
-
-vbnet
-Copy
-Edit
-
-Let me know if you'd like me to tailor this README to a specific model or library you used in 
+ 
