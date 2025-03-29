@@ -2,11 +2,11 @@
 
 This project demonstrates how to build a machine learning model to predict breast cancer diagnoses based on clinical data. The goal is to distinguish between malignant and benign tumors using classification algorithms.
 
-## 📁 Project Structure
+## Project Structure
 
 - `breast_cancer_prediction.ipynb`: Jupyter Notebook containing all the steps for data preprocessing, model building, evaluation, and prediction.
 
-## 🧪 Dataset
+## Dataset
 
 The dataset used is the **Breast Cancer Wisconsin (Diagnostic) Data Set**, which includes features computed from digitized images of fine needle aspirates (FNA) of breast masses.
 
@@ -22,7 +22,7 @@ Each instance is labeled as:
 - `M`: Malignant
 - `B`: Benign
 
-## 🚀 Workflow Overview
+## Workflow Overview
 
 The notebook follows a structured ML pipeline:
 
@@ -50,22 +50,22 @@ The notebook follows a structured ML pipeline:
    - Summary of findings
    - Best performing model
 
-## 📊 Dependencies
+## Dependencies
 
 To run this notebook, make sure the following Python libraries are installed:
 
 ```bash
 pip install numpy pandas scikit-learn matplotlib seaborn
-📌 Usage
+ Usage
 Clone the repository or download the notebook.
 
 Launch the notebook in JupyterLab or VS Code.
 
 Run each cell sequentially to reproduce the results.
 
-📚 References
+References
 UCI Machine Learning Repository: Breast Cancer Wisconsin (Diagnostic) Data Set
 
-🧠 License
+License
 This project is for educational and research purposes only.
  
