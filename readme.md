@@ -48,7 +48,7 @@ The notebook follows a structured ML pipeline:
 
 5. **Conclusion**
    - Summary of findings
-   - Best performing mode
+   - Best performing model
 
 ## Dependencies
 
